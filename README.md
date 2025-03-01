@@ -6,5 +6,5 @@
 
 💞️ I’m looking to collaborate on: Exciting coding projects, open-source contributions, and opportunities related to software develpment.
 
-📫 How to reach me: You can contact me via email at rakesh.kr2604@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/rakesh-kumar-04b997250 for any tech-related discussions or collaboration opportunities.
+📫 How to reach me: You can contact me via email at rakesh.kr2604@gmail.com or connect with me on LinkedIn at http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rakeshkumar2604 for any tech-related discussions or collaboration opportunities.
 
