@@ -6,7 +6,10 @@
  <img align="right" alt="coding" width ="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
  
  
- - 🌱 I’m currently learning **Computer Science and Engineering**
+  -  🖥️ I’m currently a CSE Student 
+  
+
+ - I have a keen interest in Software Development  
 
  -  📫 Reach me at **rakesh.kr2604@gmail.com**
   
