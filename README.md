@@ -15,6 +15,8 @@
  -  📫 Reach me at **rakesh.kr2604@gmail.com**
   
  -  👨‍💻 All of my projects are available at [rakesh2604](https://rakesh2604.github.io)
+ 
+ - 🔒 Some of my projects are private due to intellectual property and patent-related considerations
 
  - ⚡ Fun fact **In a world of algorithms, I choose to stay human.**
    
