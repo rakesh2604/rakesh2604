@@ -8,7 +8,9 @@
   -  🖥️ I’m currently a CSE Student 
   
 
- - I have a keen interest in Software Development  
+ - I have a keen interest in Software Development
+   
+ - **Solved 350+ Data Structures & Algorithms problems** on LeetCode
 
  -  📫 Reach me at **rakesh.kr2604@gmail.com**
   
