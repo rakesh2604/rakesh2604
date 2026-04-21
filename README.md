@@ -10,7 +10,7 @@
 
  - I have a keen interest in Software Development
    
- - **Solved 400+ Data Structures & Algorithms problems** on LeetCode
+ - **Solved 500+ Data Structures & Algorithms problems** on LeetCode
 
  -  📫 Reach me at **rakesh.kr2604@gmail.com**
   
