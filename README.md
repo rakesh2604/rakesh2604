@@ -5,15 +5,15 @@
 
 # 💫 About Me:
 
-- 🎓 Final-year MCA student with a Minor in CSE from IIT Mandi (CGPA 8.3/10)
+- 🎓 Final-year MCA student with a Minor in CSE from **IIT Mandi** (CGPA 8.3/10)
 
-- 💻 Full-stack developer focused on building AI-powered web applications
+- 💻 Full-stack developer focused on building **AI-powered web applications**.
 
-- 🧠 **Solved 500+ Data Structures & Algorithms problems** on [LeetCode](https://leetcode.com/u/rakesh2604) — 170-day max streak
+- 🧠 **Solved 500+ Data Structures & Algorithms problems** on [LeetCode](https://leetcode.com/u/rakesh2604) — 170+ day max streak
 
 - 🏆 **2nd Prize** at Innovate-A-Thon 3.0 (BIT Mesra) Web3 Hackathon
 
-- 🚀 Live projects: [InterviewIQ](https://interview-iq-eta.vercel.app/) — AI Mock Interview SaaS | [SkillBridge AI](https://skillbridge-ai-three.vercel.app/) — AI Career Roadmap Generator
+- 🚀 Live projects: [InterviewEra](https://interviewera.com/) — AI Mock Interview SaaS | [SkillBridge AI](https://skillbridge-ai-three.vercel.app/) — AI Career Roadmap Generator
 
 - 📫 Reach me at **rakesh.kr2604@gmail.com**
 
