@@ -9,7 +9,7 @@
 
 - 💻 Full-stack developer focused on building **AI-powered web applications**.
 
-- 🧠 **Solved 500+ Data Structures & Algorithms problems** on [LeetCode](https://leetcode.com/u/rakesh2604) — 190+ day max streak
+- 🧠 **Solved 500+ Data Structures & Algorithms problems** on [LeetCode](https://leetcode.com/u/rakesh2604) — 200+ day max streak
 
 - 🏆 **2nd Prize** at Innovate-A-Thon 3.0 (BIT Mesra) Web3 Hackathon
 
