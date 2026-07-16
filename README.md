@@ -114,12 +114,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rakesh2604&style=flat-square" align="center" width="250" height="50" />
-</div>
-
 ## 🚀 Current Focus
 
 - 🤖 AI Interview Systems
@@ -145,5 +139,39 @@ I enjoy building products from zero to production.
 From product design and backend architecture to AI integrations, SEO, analytics, deployment and user acquisition, I build everything end-to-end as a solo founder.
 
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- Profile Views -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rakesh2604&style=flat-square" align="center" width="250" height="50" />
+</div>
+
+<br><br>
 
 
+
+<!-- GitHub Streak -->
+<img width="760" src="https://streak-stats.demolab.com?user=rakesh2604&theme=github-dark-blue&hide_border=true"/>
+
+<br><br>
+
+
+
+<!-- Profile Summary -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakesh2604&theme=github_dark"/>
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakesh2604&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakesh2604&theme=github_dark"/>
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakesh2604&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakesh2604&theme=github_dark&utcOffset=5.5"/>
+
+</div>
