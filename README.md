@@ -1,23 +1,43 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">👨‍💻 MCA Final-Year Student | Full-Stack Developer | Aspiring Software Engineer 🚀</h3>
+<h3 align="center">👨‍💻 MCA Graduate | Founder @ InterviewEra | Full-Stack & AI Engineer 🚀</h3>
 <h3 align="center">Computer Science & Engineering Minor — IIT Mandi</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 # 💫 About Me:
 
-- 🎓 Final-year MCA student with a Minor in CSE from **IIT Mandi** (CGPA 8.3/10)
+- 🎓 MCA Graduate with a Minor in Computer Science & Engineering from **IIT Mandi** (CGPA: **8.3/10**)
 
-- 💻 Full-stack developer focused on building **AI-powered web applications**.
+- 🚀 Founder of **InterviewEra** — AI-powered Mock Interview SaaS helping candidates prepare for technical interviews.
+  
+- 🚀 Built and launched InterviewEra, an AI interview platform used by 150+ users.
 
-- 🧠 **Solved 500+ Data Structures & Algorithms problems** on [LeetCode](https://leetcode.com/u/rakesh2604) — 200+ day max streak
+- 👨‍💻 Building AI products powered by **LLMs, Voice AI, and modern  Full-Stack technologies,with a strong focus on developer productivity and technical SEO**.
 
-- 🏆 **2nd Prize** at Innovate-A-Thon 3.0 (BIT Mesra) Web3 Hackathon
+🌐 Currently building:
 
-- 🚀 Live projects: [InterviewEra](https://interviewera.com/) — AI Mock Interview SaaS | [SkillBridge AI](https://skillbridge-ai-three.vercel.app/) — AI Career Roadmap Generator
+- 🚀 InterviewEra — AI-powered mock interview platform for interview preparation and personalized feedback.
+
+- 📚 AIInterviewRound — Free interview questions, career resources, resume tools, and AI-powered interview preparation.
+
+- 🤖 AgenticCoding — Learn AI, build AI agents, and master modern software development with practical guides.
+
+- 📈 **InterviewEra**
+  - 150+ registered users
+  - 250+ SEO-optimized pages
+  - 8K+ organic search impressions and 450+ clicks through SEO
+
+- 🧠 **700+ DSA problems** Solved on LeetCode
+  - Rank: **Top ~84K**
+  - 248-day maximum streak
+  - 250+ active coding days
+
+- 🏆 2nd Prize — Innovate-A-Thon 3.0 (BIT Mesra) Web3 Hackathon
+
+- 💻 Passionate about building production-ready AI SaaS products rather than demo projects.
 
 - 📫 Reach me at **rakesh.kr2604@gmail.com**
 
-- 🔒 Some of my projects are kept private
+- 🔒 Some production projects are private.
 
 <br/>
 
@@ -106,3 +126,32 @@
 ![](https://github-readme-stats.vercel.app/api?username=rakesh2604&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 </div>
+## 🚀 Current Focus
+
+- 🤖 AI Interview Systems
+- 🧠 Agentic AI Applications
+- 🎤 Voice AI
+- 📈 Technical SEO
+- ⚡ SaaS Architecture
+- ☁️ Scalable Backend Systems
+# 🌟 Featured Products
+
+| Product | Description |
+|---------|-------------|
+| 🚀 **InterviewEra** | AI-powered mock interviews with resume analysis, adaptive questioning and personalized feedback. |
+| 📚 **AIInterviewRound** | Free interview preparation platform with questions, resume tools and career resources. |
+| 🤖 **AgenticCoding** | Hands-on AI coding tutorials, agentic AI guides and developer education. |
+
+
+## 💼 Founder Journey
+
+I enjoy building products from zero to production.
+
+From product design and backend architecture to AI integrations, SEO, analytics, deployment and user acquisition, I build everything end-to-end as a solo founder.
+
+Current focus:
+- AI SaaS
+- Voice AI
+- LLM Applications
+- Product Engineering
+- Technical SEO
