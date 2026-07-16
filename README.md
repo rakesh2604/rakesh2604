@@ -120,12 +120,6 @@
 <img src="https://komarev.com/ghpvc/?username=rakesh2604&style=flat-square" align="center" width="250" height="50" />
 </div>
 
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=rakesh2604&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=rakesh2604&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-</div>
 ## 🚀 Current Focus
 
 - 🤖 AI Interview Systems
@@ -134,6 +128,7 @@
 - 📈 Technical SEO
 - ⚡ SaaS Architecture
 - ☁️ Scalable Backend Systems
+
 # 🌟 Featured Products
 
 | Product | Description |
@@ -149,9 +144,6 @@ I enjoy building products from zero to production.
 
 From product design and backend architecture to AI integrations, SEO, analytics, deployment and user acquisition, I build everything end-to-end as a solo founder.
 
-Current focus:
-- AI SaaS
-- Voice AI
-- LLM Applications
-- Product Engineering
-- Technical SEO
+
+
+
