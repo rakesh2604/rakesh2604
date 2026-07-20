@@ -27,9 +27,8 @@
   - 8K+ organic search impressions and 450+ clicks through SEO
 
 - 🧠 **700+ DSA problems** Solved on LeetCode
-  - Rank: **Top ~84K**
-  - 248-day maximum streak
-  - 250+ active coding days
+  - Rank: **Top ~80K**
+  - 250+ day maximum streak
 
 - 🏆 2nd Prize — Innovate-A-Thon 3.0 (BIT Mesra) Web3 Hackathon
 
