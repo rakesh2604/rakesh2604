@@ -24,7 +24,7 @@
 - 📈 **InterviewEra**
   - 150+ registered users
   - 250+ SEO-optimized pages
-  - 8K+ organic search impressions and 450+ clicks through SEO
+  - 10K+ organic search impressions and 700+ clicks through SEO
 
 - 🧠 **700+ DSA problems** Solved on LeetCode
   - Rank: **Top ~80K**
