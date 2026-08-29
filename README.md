@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">👨‍💻 MCA Graduate | Founder @ InterviewEra | Full-Stack & AI Engineer 🚀</h3>
+<h3 align="center">👨‍💻 MCA Graduate | Founder @ InterviewEra | Full-Stack & AI Engineer </h3>
 <h3 align="center">Computer Science & Engineering Minor — IIT Mandi</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
@@ -7,36 +7,44 @@
 
 - 🎓 MCA Graduate with a Minor in Computer Science & Engineering from **IIT Mandi** (CGPA: **8.3/10**)
 
-- 🚀 Founder of **InterviewEra** — AI-powered Mock Interview SaaS helping candidates prepare for technical interviews.
+-  Founder of **InterviewEra** — AI-powered Mock Interview SaaS helping candidates prepare for technical interviews.
   
-- 🚀 Built and launched InterviewEra, an AI interview platform used by 150+ users.
+-  Built and launched InterviewEra, an AI interview platform used by 200+ users.
 
 - 👨‍💻 Building AI products powered by **LLMs, Voice AI, and modern  Full-Stack technologies,with a strong focus on developer productivity and technical SEO**.
 
 🌐 Currently building:
 
-- 🚀 InterviewEra — AI-powered mock interview platform for interview preparation and personalized feedback.
+- 👨‍💻 InterviewEra — AI-powered mock interview platform for interview preparation and personalized feedback.
 
 - 📚 AIInterviewRound — Free interview questions, career resources, resume tools, and AI-powered interview preparation.
 
 - 🤖 AgenticCoding — Learn AI, build AI agents, and master modern software development with practical guides.
 
 - 📈 **InterviewEra**
-  - 150+ registered users
+  - 200+ registered users
   - 250+ SEO-optimized pages
-  - 23.5K+ organic search impressions and 1155+ clicks through SEO
+  - 27.8K+ organic search impressions and 1.3K+ clicks through SEO
 
 - 🧠 **700+ DSA problems** Solved on LeetCode
   - Rank: **Top ~80K**
   - 250+ day maximum streak
+  - 800+ GitHub contributions in the last year across production and open-source projects.
+  - NPTEL: Top 5% (Elite + Silver) in Cyber Security & Privacy; Elite in Programming in Java.
 
-- 🏆 2nd Prize — Innovate-A-Thon 3.0 (BIT Mesra) Web3 Hackathon
+🏆 Achievements:
 
-- 💻 Passionate about building production-ready AI SaaS products rather than demo projects.
+🥈 2nd Prize — Innovate-A-Thon 3.0 (BIT Mesra) Web3 Hackathon
 
-- 📫 Reach me at **rakesh.kr2604@gmail.com**
+💻 30+ projects delivered across production applications and freelance client projects
 
-- 🔒 Some production projects are private.
+👨‍💻  Hands-on experience building and shipping production-ready AI SaaS products
+
+💡 Passionate about building real-world products rather than demo projects, from idea to production.
+
+📫 Reach me at rakesh.kr2604@gmail.com
+
+🔒 Some production projects are private.
 
 <br/>
 
@@ -113,7 +121,7 @@
 
 </div>
 
-## 🚀 Current Focus
+## 👨‍💻 Current Focus
 
 - 🤖 AI Interview Systems
 - 🧠 Agentic AI Applications
@@ -126,7 +134,7 @@
 
 | Product | Description |
 |---------|-------------|
-| 🚀 **InterviewEra** | AI-powered mock interviews with resume analysis, adaptive questioning and personalized feedback. |
+| 👨‍💻 **InterviewEra** | AI-powered mock interviews with resume analysis, adaptive questioning and personalized feedback. |
 | 📚 **AIInterviewRound** | Free interview preparation platform with questions, resume tools and career resources. |
 | 🤖 **AgenticCoding** | Hands-on AI coding tutorials, agentic AI guides and developer education. |
 
